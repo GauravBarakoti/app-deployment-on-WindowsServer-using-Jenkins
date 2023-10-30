@@ -27,7 +27,7 @@
     
         <table style="width:100%;">
             <caption class="style1">
-                <strong>Login Form</strong></caption>
+                <strong>New Login Form</strong></caption>
             <tr>
                 <td class="style2">
                     &nbsp;</td>
